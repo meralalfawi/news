@@ -1,6 +1,7 @@
 # news
 
-A new Flutter project.
+An Application that displays news from different resources
+Using API service 
 
 ## Getting Started
 
